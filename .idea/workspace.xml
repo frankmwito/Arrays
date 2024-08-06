@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7562c6bd-c8d8-418d-b019-d7aac2f1a562" name="Changes" comment="find the second-largest element in an Array" />
+    <list default="true" id="7562c6bd-c8d8-418d-b019-d7aac2f1a562" name="Changes" comment="// Merge two sorted arrays and sorted in ascending order">
+      <change beforePath="$PROJECT_DIR$/src/Merge two sorted arrays.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Merge two sorted arrays.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +48,7 @@
     "Kotlin.Check_if_array_is_sortedKt.executor": "Run",
     "Kotlin.Find_the_second_largest_ElementKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
+    "Kotlin.Merge_two_sorted_arraysKt.executor": "Run",
     "Kotlin.Reverse_an_arrayKt.executor": "Run",
     "Kotlin.Sum_of_elements_in_a_given_arrayKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -142,7 +145,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722969103813</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="find the second-largest element in an Array">
+      <option name="closed" value="true" />
+      <created>1722969227905</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1722969227905</updated>
+    </task>
+    <task id="LOCAL-00012" summary="// Merge two sorted arrays and sorted in ascending order">
+      <option name="closed" value="true" />
+      <created>1722969263356</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1722969263356</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -152,6 +171,7 @@
     <MESSAGE value="Reverse an array" />
     <MESSAGE value="check if array is sorted" />
     <MESSAGE value="find the second-largest element in an Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="find the second-largest element in an Array" />
+    <MESSAGE value="// Merge two sorted arrays and sorted in ascending order" />
+    <option name="LAST_COMMIT_MESSAGE" value="// Merge two sorted arrays and sorted in ascending order" />
   </component>
 </project>
