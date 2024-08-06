@@ -18,7 +18,7 @@ fun main() {
     }
 
 fun isArraySorted(arr: IntArray):Boolean {
-    for (i in 0 until arr.size-1){
+    for (i in 0..<arr.size-1){
         if (arr[i] > arr[i+1]){
             return false
         }
