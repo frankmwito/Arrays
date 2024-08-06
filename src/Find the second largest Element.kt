@@ -1,7 +1,6 @@
 import java.util.*
 
 // Find the second-largest element in an array
-
 fun main() {
     println("Enter the size of the array")
     val reader = Scanner(System.`in`)
