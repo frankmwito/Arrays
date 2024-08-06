@@ -1,6 +1,6 @@
 import java.util.*
 
-//check if array is sorted
+// check if array is sorted
 
 fun main() {
     println("Enter the size of the array")
