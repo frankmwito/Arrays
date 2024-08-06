@@ -4,14 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7562c6bd-c8d8-418d-b019-d7aac2f1a562" name="Changes" comment="Array problems">
+    <list default="true" id="7562c6bd-c8d8-418d-b019-d7aac2f1a562" name="Changes" comment="Sum of elements in a given array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sum of elements in a given array.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sum of elements in a given array.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Kotlin.MainKt.executor": "Run",
+    "Kotlin.Sum_of_elements_in_a_given_arrayKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
@@ -62,11 +70,29 @@
       <option name="project" value="LOCAL" />
       <updated>1722963775286</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="find the maximum Element in an array">
+      <option name="closed" value="true" />
+      <created>1722965226963</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722965226963</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Sum of elements in a given array">
+      <option name="closed" value="true" />
+      <created>1722965311614</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722965311614</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Array problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="Array problems" />
+    <MESSAGE value="find the maximum Element in an array" />
+    <MESSAGE value="Sum of elements in a given array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sum of elements in a given array" />
   </component>
 </project>
