@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7562c6bd-c8d8-418d-b019-d7aac2f1a562" name="Changes" comment="Sum of elements in a given array">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sum of elements in a given array.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sum of elements in a given array.kt" afterDir="false" />
+    <list default="true" id="7562c6bd-c8d8-418d-b019-d7aac2f1a562" name="Changes" comment="Reverse an array">
+      <change beforePath="$PROJECT_DIR$/src/Reverse an array.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reverse an array.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Kotlin.MainKt.executor": "Run",
+    "Kotlin.Reverse_an_arrayKt.executor": "Run",
     "Kotlin.Sum_of_elements_in_a_given_arrayKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -86,13 +86,30 @@
       <option name="project" value="LOCAL" />
       <updated>1722965311614</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Sum of elements in a given array">
+      <option name="closed" value="true" />
+      <created>1722965816441</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722965816441</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Reverse an array">
+      <option name="closed" value="true" />
+      <created>1722965894983</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722965894983</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Array problems" />
     <MESSAGE value="find the maximum Element in an array" />
     <MESSAGE value="Sum of elements in a given array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sum of elements in a given array" />
+    <MESSAGE value="Reverse an array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reverse an array" />
   </component>
 </project>
