@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7562c6bd-c8d8-418d-b019-d7aac2f1a562" name="Changes" comment="Reverse an array" />
+    <list default="true" id="7562c6bd-c8d8-418d-b019-d7aac2f1a562" name="Changes" comment="check if array is sorted">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/check if array is sorted.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/check if array is sorted.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.Check_if_array_is_sortedKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.Reverse_an_arrayKt.executor": "Run",
     "Kotlin.Sum_of_elements_in_a_given_arrayKt.executor": "Run",
@@ -108,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722966422459</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="check if array is sorted">
+      <option name="closed" value="true" />
+      <created>1722966527827</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1722966527827</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -116,6 +128,7 @@
     <MESSAGE value="find the maximum Element in an array" />
     <MESSAGE value="Sum of elements in a given array" />
     <MESSAGE value="Reverse an array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reverse an array" />
+    <MESSAGE value="check if array is sorted" />
+    <option name="LAST_COMMIT_MESSAGE" value="check if array is sorted" />
   </component>
 </project>
