@@ -1,6 +1,6 @@
 import java.util.Scanner
 
-// reverse an array
+//reverse an array
 
 fun main()  {
     println("Enter the size of the array")
