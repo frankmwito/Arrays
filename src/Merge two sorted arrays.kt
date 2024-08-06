@@ -1,6 +1,6 @@
 import java.util.*
 
-// Merge two sorted arrays and sorted in ascending order
+//Merge two sorted arrays and sorted in ascending order
 
 
 fun main() {
