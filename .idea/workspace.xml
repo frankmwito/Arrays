@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7562c6bd-c8d8-418d-b019-d7aac2f1a562" name="Changes" comment="check if array is sorted">
+    <list default="true" id="7562c6bd-c8d8-418d-b019-d7aac2f1a562" name="Changes" comment="find the second-largest element in an Array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/check if array is sorted.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/check if array is sorted.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Find the second largest Element.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Find the second largest Element.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Kotlin.Check_if_array_is_sortedKt.executor": "Run",
+    "Kotlin.Find_the_second_largest_ElementKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.Reverse_an_arrayKt.executor": "Run",
     "Kotlin.Sum_of_elements_in_a_given_arrayKt.executor": "Run",
@@ -120,7 +121,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722966527827</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="check if array is sorted">
+      <option name="closed" value="true" />
+      <created>1722967913939</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722967913939</updated>
+    </task>
+    <task id="LOCAL-00009" summary="find the second-largest element in an Array">
+      <option name="closed" value="true" />
+      <created>1722968031732</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722968031732</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -129,6 +146,7 @@
     <MESSAGE value="Sum of elements in a given array" />
     <MESSAGE value="Reverse an array" />
     <MESSAGE value="check if array is sorted" />
-    <option name="LAST_COMMIT_MESSAGE" value="check if array is sorted" />
+    <MESSAGE value="find the second-largest element in an Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="find the second-largest element in an Array" />
   </component>
 </project>
