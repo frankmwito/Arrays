@@ -8,7 +8,7 @@ fun main() {
     val n = reader.nextInt()
     val numbers   =  IntArray(n)
 
-    for (i in 0 until n){
+    for (i in 0..<n){
         println("Enter the precise value for element $i")
         numbers[i] = reader.nextInt()
     }
