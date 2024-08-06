@@ -1,6 +1,6 @@
 import java.util.Scanner
 
-//sum of elements in a given array
+// sum of elements in a given array
 
 fun main()  {
     println("Enter the size of the array")
