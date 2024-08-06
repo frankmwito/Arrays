@@ -14,7 +14,7 @@ fun main() {
 
     val numbers = IntArray(n)
 
-    for (i in 0 until n) {
+    for (i in 0..<n) {
         println("Enter the value of position $i")
         numbers[i] = reader.nextInt()
     }
